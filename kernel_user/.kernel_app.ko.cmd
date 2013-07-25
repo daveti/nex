@@ -1,0 +1,1 @@
+cmd_/home/daveti/netlink/kernel_user/kernel_app.ko := ld -r -m elf_x86_64 -T /usr/src/kernels/3.9.10-200.fc18.x86_64/scripts/module-common.lds --build-id  -o /home/daveti/netlink/kernel_user/kernel_app.ko /home/daveti/netlink/kernel_user/kernel_app.o /home/daveti/netlink/kernel_user/kernel_app.mod.o
