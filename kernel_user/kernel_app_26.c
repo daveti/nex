@@ -3,7 +3,7 @@
  * Kernel module using netlink
  * Reference: http://stackoverflow.com/questions/3299386/how-to-use-netlink-socket-to-communicate-with-a-kernel-module
  * Reference: linux/netlink.h
- * Kernel version: 3.9.10
+ * Kernel version: 2.6.X
  * Jul 23, 2013
  * daveti@cs.uoregon.edu
  * http://daveti.blog.com
